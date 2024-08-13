@@ -1,4 +1,4 @@
-# Prodigy InfoTech Internship: Data Analysis Insights ######
+# Prodigy InfoTech Internship: Data Science Task 01 ######
 
 Welcome to the Prodigy InfoTech Internship repository! This repository contains the documentation for Task 1 of my internship, which focuses on data cleaning, analysis, and uncovering insightful patterns.
 
